@@ -19,4 +19,4 @@ for i in range(len(X)):
 
     output:
 
-    ![Deep learning test case 2](https://github.com/user-attachments/assets/fbb95977-4037-4851-8dea-632cae406d4c)
+    ![Deep learning test case 2](https://github.com/user-attachments/assets/1bc1a06b-e2f2-4ca6-ac51-4a6cf379657e)
