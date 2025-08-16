@@ -11,6 +11,6 @@ for case in test_cases:
     correct = "Y" if case["expected"] == case["model_output"] else "N"
     print(f"{case['image']:12} | Expected: {case['expected']} | Model Output: {case['model_output']} | Correct: {correct}")
 
-    output:
+output:
 
-    ![Deep Learning exp2 test case 12025-08-16 at 12 56 29_5167f295](https://github.com/user-attachments/assets/88b95f72-9acb-4be3-be6d-df7bb7218e90)
+![Deep Learning exp2 test case 12025-08-16 at 12 56 29_5167f295](https://github.com/user-attachments/assets/121ce8a5-f3fa-4661-9c55-a6db400249c5)
